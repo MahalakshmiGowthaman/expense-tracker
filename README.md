@@ -17,12 +17,12 @@ Python · Streamlit · Pandas · Plotly
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/<your-username>/expense-tracker.git
+git clone https://github.com/MahalakshmiGowthaman/expense-tracker.git
 cd expense-tracker
 pip install -r requirements.txt
 streamlit run app.py
 ```
-Then open http://localhost:8501 in your browser.
+The app opens in your browser (usually at `localhost:8501`).
 
 > 💡 On first run the app creates an empty `expenses.csv` automatically. To try it with demo data, copy `sample_data.csv` to `expenses.csv` before running.
 
@@ -41,4 +41,4 @@ Then open http://localhost:8501 in your browser.
 
 ## 👩‍💻 Author
 **Mahalakshmi** — Final-year B.Tech AI & Data Science
-[LinkedIn](<your-linkedin-link>)
+[GitHub](https://github.com/MahalakshmiGowthaman)
